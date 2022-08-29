@@ -1,0 +1,26 @@
+#app { height: 100% }
+
+
+.swiper {
+
+  height: 100%;
+}
+
+.swiper-slide {
+  
+  font-size: 18px;
+
+
+  /* Center slide text vertically */
+ 
+}
+
+.swiper-slide img {
+  display: block;
+  z-index: 9999;
+  height: 100%;
+  object-fit: cover;
+}
+.swiper-pagination-bullet {
+    background-color: #A100ED !important;
+}
